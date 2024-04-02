@@ -67,17 +67,24 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120543388/64462bca-ef79-4a6a-9001-429237ec561d)
 
+
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120543388/051219ca-58dd-43b1-bc4a-078a329a9378)
+
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120543388/ce61c6ae-0526-4e7e-bbd3-a35ca856ed5a)
 
+
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120543388/b2c9a12f-34f6-402b-bd1c-3b822e0c4232)
+
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120543388/7ea26869-f848-447e-a739-1078421e5b0c)
 
+
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120543388/b1086ed9-648f-49f9-a418-014357262c81)
 
+
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120543388/fe578dda-a511-44e5-afa5-0ad37776fe99)
+
 
 ![image](https://github.com/nivetharajaa/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/120543388/4a8a571a-fcad-41b0-85a4-ef45a7f15250)
 
